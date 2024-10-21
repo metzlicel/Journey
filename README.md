@@ -1,0 +1,1 @@
+Journey es una app que tiene como objetivo hacer que el transporte público sea más confiable y fácil de usar, incentivando a más ciudadanos a optar por esta opción. Al fomentar su uso, se busca contribuir a un entorno urbano más eficiente y seguro, lo que, a largo plazo, impactará positivamente en el bienestar general de la población.
